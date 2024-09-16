@@ -22,32 +22,28 @@ h6{
 }
 .blog{
     border-radius: 3px;
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
     width: 400px;
     height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     margin: 50 auto;
 }
 #Lebron{
-    background-color: purple;
+    background-color: rgb(128, 0, 1280.705);
 }
 #bronny{
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0.705);
 }
 #bryce{
-    background-color: red;
+    background-color: rgb(255, 0, 00.705);
 }
-#lepic{
+.img{
+    padding: 10px;
     width: 80% ;
-    height: 40%;
+    height: 60%;
     object-fit: cover;
 }
-.center80 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%; /* Adjust as needed */
-}
+
